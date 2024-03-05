@@ -30,3 +30,10 @@ def api(word):
 if __name__ == "__main__":
     app.run(debug=True, port=5001)
 ```
+---
+- [x] Create resposiotry
+- [x] Pull request
+- [x] Edit index.md
+- [ ] Finish Markdown lesson
+- [ ] Add files to assignment
+- [ ] Continute with the rest of the assignments 
